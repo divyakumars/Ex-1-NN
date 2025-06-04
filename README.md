@@ -5,7 +5,6 @@
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
-
 To perform Data preprocessing in a data set downloaded from Kaggle
 
 ## EQUIPMENTS REQUIRED:

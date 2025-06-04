@@ -60,7 +60,6 @@ df.head()
 df.tail()
 df.columns
 ```
-
 ### CHECK THE MISSING DATA:
 ```py
 df.isnull().sum()
